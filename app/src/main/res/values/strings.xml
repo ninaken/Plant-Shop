@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Finaluri</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="company_name">Plant Shop</string>
+    <string name="recover_password">პაროლის აღდგენა</string>
+    <string name="login">შესვლა</string>
+    <string name="password">Password</string>
+
+
+</resources>
